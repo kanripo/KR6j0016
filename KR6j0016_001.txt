@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:47.346190
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:00
 #+TITLE: 大毘盧遮那略要速疾門五支念誦法
 #+PROPERTY: CBETA_ID T18n0858
 #+PROPERTY: ID KR6j0016
