@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:47.346190
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:00
 #+TITLE: 大毘盧遮那略要速疾門五支念誦法
 #+PROPERTY: CBETA_ID T18n0858
 #+PROPERTY: ID KR6j0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 858
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0016_T_001-0177b> 
 #+PROPERTY: JUAN 1
 ¶
-No.858¶
-
- 大毘盧遮那略要速疾門五支念¶
+No. 858¶
+大毘盧遮那略要速疾門五支念¶
 誦法¶
 ¶
 
